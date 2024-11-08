@@ -33,7 +33,7 @@ Home-Based Workers 2019-2021 [SIPP](https://www.census.gov/data/developers/data-
 * Read through documentation
 * Work together to parse through dataset and extract relevant information
 * Create base DataFrame / API call
-* Split off to work separately on answering our each question
+* Split off to work separately on answering each of our questions
 * Come together to share our potential findings
 * Run statistics on findings
 * Work together on creating cohesive graphs and charts
